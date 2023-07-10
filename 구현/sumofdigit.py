@@ -8,7 +8,7 @@ sys.stdin = open('input.txt', 'rt')
         x = x // 10
     return s"""
 
-#2nd trial
+#2nd
 """
 def digit_sum(x):
     sum = 0
