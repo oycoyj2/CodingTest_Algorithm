@@ -1,7 +1,7 @@
 # 키워드: `DFS`, `트리`
 
 기초적인 DFS 문제이며 전위순회, 중위순회, 후위순회에 대해 설명하고 있다. 
-![이진트리순회](https://velog.velcdn.com/images/sangyun/post/df114071-0a0b-4fbb-91c1-c4ac0391d262/image.png)
+![이진트리순회](https://velog.velcdn.com/images/sangyun/post/df114071-0a0b-4fbb-91c1-c4ac0391d262/image.png){: width="300" height="300"}
 <br>
 
 순회의 방식은 크게 3가지가 있으며 주로 쓰이는 방식은 전위 순회이다. 후위 순회는 가끔씩 쓰이며 중위순회는 거의 쓰이지 않는다. 구현하는 방법은 다음과 같다.
